@@ -1,4 +1,4 @@
-// count 1-10
+// my first for loop
 
 #include <iostream>
 using namespace std;
