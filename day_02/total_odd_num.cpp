@@ -1,3 +1,5 @@
+// use for loop
+
 
 #include <iostream>
 using namespace std;
